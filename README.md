@@ -24,7 +24,6 @@ O desenvolvimento do projeto é cumulativo e estruturado em quatro Sprints princ
 | **Sprint 3: Sistema Completo Interno** | 4 semanas (28 dias) | **19/11/2026** | Protocolo completo de empréstimo bilateral entre *masters* da própria equipe, controle de época (*assignment_epoch*), redirecionamento e retorno comprovado[cite: 1]. |
 | **Sprint 4: Integração Inter-Grupos** | 2 semanas (14 dias) | **03/12/2026** | Interoperabilidade e testes cruzados entre implementações de equipes independentes usando o contrato comum[cite: 1]. |
 | **Apresentação Final** | - | **03/12/2026** | Demonstração prática do ambiente integrado com transmissão de carga e métricas em tempo real[cite: 1]. |
-| **Prova Regimental** | 1 semana após apr. | **10/12/2026** | Avaliação individual conforme planejamento docente[cite: 1]. |
 
 ---
 
